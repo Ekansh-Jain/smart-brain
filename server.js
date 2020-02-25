@@ -33,7 +33,7 @@ app.put('/image',(req,res)=>{image.handleImage(req,res,db)});
 app.post('/imageurl',(req,res)=>{image.handleApiCall(req,res,db)});
 
 
-app.listen(3002,()=>{
+app.listen(process.env.PORT || 3000 ,()=>{
 	console.log('app is running');
 })
 
