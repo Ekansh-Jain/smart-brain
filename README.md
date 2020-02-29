@@ -1,2 +1,2 @@
-# background-generator
+# smart-brain-api
 Udemy Course Tutorial
