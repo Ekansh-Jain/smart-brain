@@ -1,3 +1,2 @@
 # Smart-brain app
-Web App accepting image url and detecting face in the image.
-Udemy Course Tutorial Front-end code
+It is a web application created in react. It uses Clarifai API to detect faces in the image.
